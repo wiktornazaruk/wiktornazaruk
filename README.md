@@ -52,13 +52,6 @@ Tech enthusiast with a passion for **data-driven solutions**.
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiktornazaruk&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wiktornazaruk&layout=compact&theme=radical)  
-
----
-
 ### 🔭 I’m currently working on
 Exploring advanced data engineering techniques and developing scalable data pipelines.
 
